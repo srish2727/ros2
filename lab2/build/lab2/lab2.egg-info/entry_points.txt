@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = lab2.publisher:main
+subscriber = lab2.subscriber:main
+
